@@ -64,6 +64,9 @@ input {
   border-left: none;
   border-bottom: solid 0.3px;
 }
+button {
+  cursor: pointer;
+}
 @media (max-width: 1024px) {
   .listing-photo {
     width: 100%;
